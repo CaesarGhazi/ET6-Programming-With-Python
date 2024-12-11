@@ -12,4 +12,4 @@ To prepare for the workshop, read through these two documents: [Test-Driven Deve
 You can explore integrating LLMs into your workflow after the workshop using these resources:
 
 - [Workflow with LLM](./workflow_with_llm.md) + [video guide](https://mit-emerging-talent.github.io/ET6-Programming-With-Python/5_tdd_with_llms/workflow_example.mp4)
-- [Stepped examples](./examples/): Each of the files is a snapshot of a different step in the development process. The final product is in one file for demonstration, yours should be separated into two files.
+- [`filter_and_sort_dictionaries_with_llm](./examples/filter_and_sort_dictionaries_with_llm/): This has snapshots of different steps in the development process. The final product is in one file for demonstration, yours should be separated into two files.
