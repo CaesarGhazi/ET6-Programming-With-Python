@@ -279,8 +279,8 @@ letters = ['b', 'c']
 letters.append('d')
 print(letters) # ['b', 'c', 'd']
 
-# add an item to the beginning of the list
-letters.insert('a')
+# insert an item at a specific index in the list
+letters.insert(0,'a')
 print(letters) # ['a', 'b', 'c', 'd']
 
 # get the length of a list

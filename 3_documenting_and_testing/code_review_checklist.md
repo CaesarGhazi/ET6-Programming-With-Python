@@ -35,6 +35,7 @@ the details become a habit.
 - [ ] return value description
 - [ ] include any assumptions
 - [ ] include 3 or more (passing!) doctests
+- [ ] assertions are documented (if there are any)
 - [ ] include 1-2 use cases (if necessary)
 
 ## Function Implementation
